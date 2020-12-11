@@ -3,6 +3,9 @@
 
 ☁️user created 3D cities in the sky☁️
 
+A very early prototype for a 3D city full of buildings designed by users.
+
+---
 ## up and running
 
 ### required
