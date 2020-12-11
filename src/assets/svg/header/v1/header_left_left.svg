@@ -1,0 +1,32 @@
+<svg
+  version="1.1"
+  id="header_left_end_svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0px"
+  y="0px"
+  viewBox="0 0 156 137"
+  style="enable-background:new 0 0 156 137;"
+  xml:space="preserve">
+
+  <style type="text/css">
+    .st0{fill:url(#header_left_end_bg);}
+    .st1{fill:#FFFFFF;}
+  </style>
+
+  <linearGradient id="header_left_end_bg" gradientUnits="userSpaceOnUse" x1="20.8967" y1="-63.6847" x2="20.8967" y2="135.5455">
+    <stop  offset="0" style="stop-color:#4582C3"/>
+    <stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+    <stop  offset="1" style="stop-color:#FFFFFF"/>
+  </linearGradient>
+
+  <polyline id="header_left_end_base" class="st0" points="0,1.7 41.8,51.2 41.8,137 0,137 "/>
+  <path id="header_left_end_highlight" class="st1" d="M155.1,137c0.2-0.9,0.3-1.9,0.3-2.9c0-6.4-3.9-11.8-9.4-14.2c0-0.4,0.1-0.8,0.1-1.2
+    c0-8.4-6.8-15.2-15.2-15.3c-1-7.7-7.6-13.6-15.5-13.6c-2.6,0-5.1,0.7-7.2,1.8c-4.3-4.8-10.6-7.8-17.6-7.8c-1.4,0-2.7,0.1-4,0.3
+    c-3-9.6-12-16.6-22.6-16.6c-0.7,0-1.4,0-2.1,0.1c-3-9.8-9.8-18-18.6-23c0.5-1.9,0.8-4,0.8-6c0-12.2-9.2-22.3-21.1-23.6
+    C22.4,6.7,15.6,0,7.1,0C4.6,0,2.1,0.6,0,1.7c0,0.9,0.1,1.8,0.3,2.7c0.6,3.3,2.5,6.2,5,8.2c0,0.1,0,0.2,0,0.4c0,4.9,2.5,9.2,6.3,11.7
+    c1.4,5.7,6.3,10,12.2,10.6c2,2.6,4.9,4.4,8.2,5.1c0.9,3.5,3.1,6.6,6.1,8.4c0,0.2,0,0.5,0,0.7c0,2.7,0.8,5.3,2.1,7.4
+    c-0.4,0-0.8-0.1-1.2-0.1c-7.7,0-13.9,6.2-13.9,13.9S31.3,84.7,39,84.7c0.5,0,0.9,0,1.4-0.1c-1.4,3.1-2.2,6.4-2.2,10
+    c0,0.3,0,0.6,0,0.9c-8.7,2.1-15.6,9-17.8,17.7c-1.5-0.3-3-0.4-4.5-0.4c-6.1,0-11.7,2.3-15.9,6V137h125H155.1z"/>
+
+</svg>

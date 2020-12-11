@@ -1,0 +1,79 @@
+<!-- <svg
+  version="1.1"
+  id="header_bg_svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+	viewBox="0 0 200 200"
+  style="enable-background:new 0 0 200 200;"
+  xml:space="preserve">
+
+  <style type="text/css">
+    .sky_rect{fill:url(#light_blue_gradient);}
+  </style>
+
+  <linearGradient
+    id="light_blue_gradient"
+    gradientUnits="userSpaceOnUse"
+    x1="-294.7943"
+    y1="405.975"
+    x2="-294.7943"
+    y2="404.975"
+    gradientTransform="matrix(1920 0 0 -200 566105 81195)">
+
+    <stop offset="0%" stop-color="#45a8df" stop-opacity="1">
+    </stop>
+
+    <stop offset="80%" stop-color="#A0DDF9" stop-opacity="1">
+    </stop>
+
+    <stop offset="100%" stop-color="white" stop-opacity="1">
+    </stop>
+
+  </linearGradient>
+
+  <rect id="sky_rect" class="sky_rect" width="200" height="200"/>
+
+</svg> -->
+
+<svg
+  version="1.1"
+  id="header_bg_svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+	viewBox="0 0 1920 200"
+  style="enable-background:new 0 0 1920 200;"
+  xml:space="preserve">
+
+  <style type="text/css">
+    .sky_rect{fill:url(#light_blue_gradient);}
+  </style>
+
+  <linearGradient
+    id="light_blue_gradient"
+    gradientUnits="userSpaceOnUse"
+    x1="-294.7943"
+    y1="405.975"
+    x2="-294.7943"
+    y2="404.975"
+    gradientTransform="matrix(1920 0 0 -200 566105 81195)">
+
+    <stop offset="0%" stop-color="lightblue" stop-opacity="1">
+      <animate attributeName="stop-color" values="#45a8df;#F6D365;#a8c0e4;#4770B7;#a8c0e4;#45a8df" dur="60s" repeatCount="indefinite"></animate>
+    </stop>
+
+    <stop offset="100%" stop-color="lightblue" stop-opacity="1">
+      <animate attributeName="stop-color" values="#A0DDF9;#F79F86;#f1c3db;#65459C;#f1c3db;#A0DDF9" dur="60s" repeatCount="indefinite"></animate>
+    </stop>
+
+    <!-- <stop offset="100%" stop-color="white" stop-opacity="1">
+    </stop> -->
+
+  </linearGradient>
+
+  <rect id="sky_rect" class="sky_rect" width="1920" height="200"/>
+
+</svg>
