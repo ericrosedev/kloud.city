@@ -1,7 +1,7 @@
 # kloud.city
 ![kloud.city prototype](https://raw.githubusercontent.com/ericrosedev/kloud.city/master/public/kcproto.gif?token=ASABX63LQBH6JQACK6FIEKC72LM3K)
 
-☁️user created 3D cities in the clouds☁️
+☁️ user created 3D cities in the clouds ☁️
 
 A very early prototype for a 3D city full of buildings designed by users.
 
